@@ -1,4 +1,4 @@
-# mav2287 / gitignore_php 
+# mav2287 / gitignore_php
 # Version: 1.0.0
 # This .gitignore file is based on https://github.com/mav2287/php_gitignore
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
@@ -29,7 +29,7 @@ Temporary Items
 /node_modules
 /.pnp
 /vendor
-src/vendor*
+/src/vendor
 .pnp.js
 
 # testing
