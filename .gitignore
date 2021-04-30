@@ -5,6 +5,7 @@
 
 # IDE Data
 /.idea
+*.iml
 
 # OS X & MacOS
 __MACOSX
