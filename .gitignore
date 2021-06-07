@@ -7,6 +7,9 @@
 /.idea
 *.iml
 
+# Github
+.github
+
 # OS X & MacOS
 __MACOSX
 Network Trash Folder
