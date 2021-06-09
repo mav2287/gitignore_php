@@ -38,6 +38,7 @@ Temporary Items
 
 # testing
 /coverage
+.phpunit.result.cache
 
 # production
 /build
