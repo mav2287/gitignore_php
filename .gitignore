@@ -26,6 +26,9 @@ Temporary Items
 .AppleDesktop
 .apdisk
 
+#cache
+*.cache
+
 # Logs
 /logs
 
